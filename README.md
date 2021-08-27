@@ -1,3 +1,5 @@
+Created a recipe repository application using React, and Material UI for styling.  The recipes were fetched via an async request to Edamam’s recipe API - the result was then displayed to the user in the form a gallery.  Users were allowed to enter search queries, which were then used to hit an endpoint with filtering functionality provided by Edamam’s API.
+
 Site hosted by Netlify: https://optimistic-minsky-28af7e.netlify.app/
 
 
